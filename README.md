@@ -153,6 +153,7 @@ plt.show()
 ```
 
 <img width="717" height="522" alt="image" src="https://github.com/user-attachments/assets/9a5f8e3a-b6c2-4c7f-96a9-8f9a68972379" />
+
 ```
 plt.plot(x,y,'g*',linestyle='dashed',linewidth=2,markersize=12)
 plt.xlabel('X axis')
